@@ -1,0 +1,11 @@
+blockingChallenge-package
+                        Create Blocks or Strata which are Similar
+                        Within
+makeblocks              Creates strata of size 'bsize' aiming to
+                        minimize within strata distance.
+nh0506                  Smoking and homocysteine levels in NHANES
+                        2005-2006.
+smahal                  Calculates robust, rank based, Mahalanobis
+                        distance matrix.
+wls                     WLS data on Catholic schooling, Catholic
+                        religion, and access to a Catholic school.
